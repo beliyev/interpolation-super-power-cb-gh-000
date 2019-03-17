@@ -2,5 +2,5 @@
 def display_rainbow(colors)
   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   display_rainbow = colors
-  puts colors(0)
+  puts display_rainbow(0)
 end
